@@ -8,7 +8,7 @@ starting from 16th of jan 2026.
 # My target is to learn all these topics by by the end of Feb 2026.
 The list of topics to be covered:
 1. Introduction to C++ ✅
-2. C++ Basics 
+2. C++ Basics ✅
 3. Operators in C++
 4. Control Structures and Functions
 5. Object Oriented Programming (OOP)
