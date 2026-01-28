@@ -1,4 +1,4 @@
-# DSA-with-Cpp
+# Learning Cpp and DSA.
 
 Hello this repo is about my journey of learning C++ from scratch.
 starting from 16th of jan 2026.
